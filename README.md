@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [Animate On Scroll Framer](https://github.com/michaelessiet/animate-on-scroll-framer)
+- 🔭 I’m currently working on my (Medium blog)[https://devshogun.medium.com/]
 
-- 🌱 I’m currently re-learning **Flutter**
+- 🌱 I’m currently improving my **Flutter** skills
 
-- 👯 I’m looking to collaborate on **anything react, js, ts or flutter based**
+- 👯 I’m looking to collaborate on **anything react, javascript, typescript or flutter based**
 
 - 🤝 I’m looking for help with **improving an old flutter app I released a year ago**
 
 - 👨‍💻 All of my projects are available at [https://github.com/michaelessiet?tab=repositories](https://github.com/michaelessiet?tab=repositories)
 
-- 💬 Ask me about **react, javascript, python or typescript**
+- 💬 Ask me about **react, javascript, flutter or typescript**
 
 - 📫 How to reach me **essiet2002@gmail.com**
 
