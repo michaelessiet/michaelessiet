@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/michaelessiet?tab=repositories](https://github.com/michaelessiet?tab=repositories)
 
-- 💬 Ask me about **react, javascript, flutter or typescript**
+- 💬 Ask me about **react, solidjs, javascript, flutter or typescript**
 
 - 📫 How to reach me **essiet2002@gmail.com**
 
